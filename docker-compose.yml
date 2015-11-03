@@ -1,0 +1,3 @@
+example:
+  image: pitchplay/scala-dev
+  command: "~run"
