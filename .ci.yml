@@ -1,2 +1,2 @@
 run:
-  example: 
+  ubuntu: echo meow 
